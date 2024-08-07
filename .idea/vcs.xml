@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../brand-saas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../brand-saas-fe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../fe_engagement_passio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../fe_fan_passio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../passio-frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../passio-page-builder-fe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../payment-gateway-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../payment-gateway-fe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ssp-landing-frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ssp-next-landing" vcs="Git" />
+  </component>
+</project>
